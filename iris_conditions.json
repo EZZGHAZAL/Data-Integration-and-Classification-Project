@@ -1,0 +1,20 @@
+[
+    {
+        "species": "setosa",
+        "temperature": 20,
+        "soil_type": "loamy",
+        "humidity": 60
+    },
+    {
+        "species": "versicolor",
+        "temperature": 25,
+        "soil_type": "sandy",
+        "humidity": 55
+    },
+    {
+        "species": "virginica",
+        "temperature": 22,
+        "soil_type": "clay",
+        "humidity": 70
+    }
+]
