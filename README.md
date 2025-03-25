@@ -19,8 +19,6 @@ This project demonstrates data integration from multiple sources and applies cla
 
 5. **Evaluation**: Model performance is assessed using accuracy metrics and visualization techniques.
 
-## Acknowledgments
-Special thanks to **Ahmad Obaidat, Fida'a Bani Yasin, and Momen Obeidat** for their mentorship and guidance throughout this journey. Your insights have been invaluable in improving my technical and analytical skills.
 
 ## Repository Contents
 - **`datasets/`**: Contains CSV, Excel, and JSON data files.
